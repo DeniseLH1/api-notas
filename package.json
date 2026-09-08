@@ -1,0 +1,20 @@
+{
+  "name": "api-notas",
+  "version": "1.0.0",
+  "description": "Aplicacion usando todo lo vito en clase",
+  "homepage": "https://github.com/DeniseLH1/api-notas#readme",
+  "bugs": {
+    "url": "https://github.com/DeniseLH1/api-notas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeniseLH1/api-notas.git"
+  },
+  "license": "ISC",
+  "author": "DensieLH1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
